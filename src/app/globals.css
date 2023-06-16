@@ -99,6 +99,9 @@ a {
   color: inherit;
   text-decoration: none;
 }
+table, th, td {
+  border:1px solid white;
+}
 
 @media (prefers-color-scheme: dark) {
   html {
